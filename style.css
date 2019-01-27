@@ -1,0 +1,62 @@
+body{
+  font: 12pt;
+}
+
+.header{
+  background-color: beige;
+  color: white;
+  text-align: center;
+  font: 13pt;
+}
+.section1{
+  background-image: url('src/Home%20Background.jpg');
+  background-size: cover;
+  color: black;
+  font-weight: 400;
+  height: 650px;
+  text-align: center;
+}
+.home-content{
+  height: 120px;
+  width: 480px;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+
+.second-slider{
+  color: black;
+}
+.aboutus, .contactus{
+  padding: 30px;
+  background-color: rgba(25,134,255,0.3);
+}
+.aboutus p{
+  text-align: center;
+}
+.mx-auto{
+  margin: 20px;
+}
+.section2{
+  text-align: center;
+}
+.col-centered{
+  float: none;
+  display: block;
+  margin: 0 auto;
+}
+.card{
+  margin:10px;
+}
+.card-img-top{
+  height: 215px;
+}
+.contactform{
+  display: block;
+}
+
+.footer{
+  color: white;
+  text-align: center;
+  font: 12pt;
+}
